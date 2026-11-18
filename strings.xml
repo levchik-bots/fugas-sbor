@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fugas</string>
+    <string name="channel_calls">Звонки</string>
+    <string name="channel_messages">Сообщения</string>
+    <string name="call_incoming_audio">Входящий звонок</string>
+    <string name="call_incoming_video">Входящий видеозвонок</string>
+    <string name="call_accept">Ответить</string>
+    <string name="call_decline">Отклонить</string>
+    <string name="update_downloading">Скачиваю обновление…</string>
+    <string name="update_failed">Не удалось скачать обновление</string>
+    <string name="update_allow_install">Разрешите установку из Fugas и нажмите «Установить» ещё раз</string>
+</resources>
